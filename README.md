@@ -11,3 +11,5 @@
 5. Wrzuć pobrany plik do folderu Lang.
 
 6. Uruchom grę i ciesz się zabawą!
+
+Creators: TacChair & M-1?
