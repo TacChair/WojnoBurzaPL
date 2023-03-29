@@ -14,5 +14,5 @@
 
 Creators: TacChair & M-1?
 
-// Odpowiada za mapy - mission_location.csv oraz mission_versus.csv
-// Odpowiada za pojazdy - units.csv
+Odpowiada za mapy - mission_location.csv oraz mission_versus.csv
+Odpowiada za pojazdy - units.csv
