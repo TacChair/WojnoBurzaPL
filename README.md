@@ -12,7 +12,7 @@
 
 6. Uruchom grę i ciesz się zabawą!
 
-Creators: TacChair & M-1?
+Creators: TacChair & UselessM-1?
 
 Odpowiada za mapy - mission_location.csv oraz mission_versus.csv
 
