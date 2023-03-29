@@ -1,6 +1,6 @@
 # WojnoBurzaPL
 
-1. Pobierz Plik.
+1. Pobierz Pliki, które cię interesują.
 
 2. Otwórz plik config.blk w plikach gry przy urzyciu notatnkika.
 
@@ -13,3 +13,6 @@
 6. Uruchom grę i ciesz się zabawą!
 
 Creators: TacChair & M-1?
+
+// Odpowiada za mapy - mission_location.csv oraz mission_versus.csv
+// Odpowiada za pojazdy - units.csv
