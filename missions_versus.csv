@@ -4150,8 +4150,18 @@ Jak powiedział jeden z kierowców, który przeżył bitwę: ""To był mój najg
 "japan/desc";"Oni Chan?";;;;;;;;;;;;;;;;;;;;;
 "phang_nga/name";"Andaman sea";"Mer d’Andaman";"Mare delle Andamane";"Andamanensee";"Mar de Andamán";"Андаманское море";"Morze Andamańskie";"Andamanské moře";"Andaman Denizi";"安\t达\t曼\t海";"アンダマン\t海";"Mar de Andamão";"Андаманське море";"Andamansko more";"Andamán-tenger";"안다만 해";"Андаманскае мора";"Marea Andaman";"安\t達\t曼\t海";"南\t部\t海\t域";;
 "phang_nga/desc";;;;;;;;;;;;;;;;;;;;;;
-"middle_east/name";"Hitler Map";"Moyen Orient";"Medio Oriente";"Naher Osten";"Medio Oriente";"Ближний Восток";"Bliski Wschód";"Střední východ";"Orta Doğu";"中\t东";"中東";"Oriente Médio";"Середній Схід";"Bliski Istok";"Közel-Kelet";"중동";"Блізкі Усход";"Orientul Mijlociu";"中\t東";"油\t田";;
-"middle_east/desc";;;;;;;;;;;;;;;;;;;;;;
+"middle_east/name";"Tajemnicza Kryjówka Wąsatego Malarza w Argentynie";"Moyen Orient";"Medio Oriente";"Naher Osten";"Medio Oriente";"Ближний Восток";"Bliski Wschód";"Střední východ";"Orta Doğu";"中\t东";"中東";"Oriente Médio";"Середній Схід";"Bliski Istok";"Közel-Kelet";"중동";"Блізкі Усход";"Orientul Mijlociu";"中\t東";"油\t田";;
+"middle_east/desc";"Bitwa pancerna o Tajemniczą Kryjówkę Austriackiego Malarza w Argentynie rozpoczęła się o świcie. Sowieckie i amerykańskie czołgi wdarły się na teren kryjówki, przypominającej z kosmosu postać austriackiego malarza. Na jej tle toczy się krwawa walka.
+
+W kryjówce, która miała być schronieniem dla Adolfa Hitlera, teraz kryją się jedynie starzy, chorzy ludzie, którzy są bezbronni wobec działających tutaj czołgów. Wszyscy stają się ofiarą walki między sowieckimi i amerykańskimi wojskami, które dążą do zdobycia tajemniczego obrazu.
+
+Obraz ten zdaniem legend ma magiczną moc, która chroni i zapewnia zwycięstwo. Niestety, żadne z wojsk nie jest w stanie go odnaleźć. W kryjówce panuje zamęt i chaos, a ranni ludzie leżą na ziemi, wśród zgliszcz.
+
+Jeden z czołgów sowieckich, w którym znajduje się ""Pojebany Zasalarz"", który znalazł się w Argentynie przypadkiem, trafia do samego centrum walki. Wściekły i zdezorientowany, zaczyna celować z działa w dowolny cel, nie zważając na to, czy znajdują się tam ludzie, czy nie. Jehowiści, którzy przypadkiem znaleźli się w pobliżu, tracą cierpliwość i zaczynają pukać do drzwi rosyjskiego czołgu, krzycząc: ""Dawaj soli, Wariatko!"".
+
+W tej chaotycznej bitwie, nie ma żadnego sensu, a walki toczą się jedynie po to, by zdobyć ten tajemniczy obraz. Jednak nikt z wojsk nie wie, co zrobić z nim, gdy go zdobędą. Może to być właśnie jeden z powodów, dla których walka jest tak bezsensowna.
+
+Czy ktoś w końcu zrozumie o co chodziło z obrazem Malarza? Co ma do tego kosmos? Co miała powiedzieć ta plotka? Gdzie jest ten obraz Hitlera?!";;;;;;;;;;;;;;;;;;;;;
 "ireland_bay/name";"Ireland Bay";"Baie d’Irlande";"Baia Irlandese";"Irland-Bucht";"Bahía de Irlanda";"Ирландский залив";"Irlandzka Zatoka";"Irský záliv";"İrlanda Koyu";"爱\t尔\t兰\t海\t湾";"アイルランド\t湾";"Baía da Irlanda";"Ірландська затока";"Ireland Bay";"Ír öböl";"아일랜드 만";"Ірландскі заліў";"Golful Irlandei";"愛\t爾\t蘭\t海\t灣";"风\t情\t海\t湾";;
 "ireland_bay/desc";;;;;;;;;;;;;;;;;;;;;;
 "arabian_north_coast/name";"Arabian sea";"Mer d'Arabie";"Mare Arabico";"Arabisches Meer";"Mar de Arabia";"Аравийское море";"Morze Arabskie";"Arabské moře";"Arap Denizi";"阿\t拉\t伯\t海";"アラビア\t海";"Mar Arábico";"Аравійське море";"Arapsko more";"Arab-tenger";"아라비아 해";"Аравійскае мора";"Marea Arabiei";"阿\t拉\t伯\t海";"海\t之\t角";;
@@ -4165,7 +4175,7 @@ Jak powiedział jeden z kierowców, który przeżył bitwę: ""To był mój najg
 "lazzaro_italy/name";"Italy";"Italie";"Cava de' Tirreni";"Italien";"Italia";"Италия";"Włochy";"Itálie";"İtalya";"意\t大\t利 • 拉\t扎\t罗";"イタリア";"Itália";"Італія";"Italija";"Olaszország";"이탈리아";"Италия";"Italia";"意\t大\t利 • 拉\t扎\t羅";"艺\t术\t之\t都";;
 "lazzaro_italy/desc";;;;;;;;;;;;;;;;;;;;;;
 "lazzaro_italy_new_city/name";"Rzym (wszystkie drogi tu prowadzą)";"Campanie";"Campania";"Kalabrien";"Campania";"Кампания";"Kampania";"Kampánie";"Campania";"意\t大\t利 • 坎\t帕\t尼\t亚";"カンパニア\t州";"Campânia";"Кампанія";"Campania";"Campania";"캄파니아";"Кампания";"Campania";"意\t大\t利 • 坎\t帕\t尼\t亞";"艺\t术\t庄\t园";;
-"lazzaro_italy_new_city/desc";;;;;;;;;;;;;;;;;;;;;;
+"lazzaro_italy_new_city/desc";"Wszystkie drogi prowadzą do Rzymu to romantyczna komedia z 2015 roku w reżyserii Elli Lemhagen, napisana przez Josha Appignanesiego i Cindy Myers";;;;;;;;;;;;;;;;;;;;;
 "air_vietnam/name";"Puszcza Białowieska";"Viêtnam";"Vietnam";"Vietnam";"Vietnam";"Вьетнам";"Wietnam";"Vietnam";"Vietnam";"越\t南";"ベトナム";"Vietnam";"В'єтнам";"Vijetnam";"Vietnám";"베트남";"Вьетнам";"Vietnam";"越\t南";"南\t部\t丛\t林";;
 "air_vietnam/desc";;;;;;;;;;;;;;;;;;;;;;
 "vietnam/name";"Puszcza Białowieska";"Viêtnam";"Vietnam";"Vietnam";"Vietnam";"Вьетнам";"Wietnam";"Vietnam";"Vietnam";"越\t南";"ベトナム";"Vietnam";"В'єтнам";"Vijetnam";"Vietnám";"베트남";"Вьетнам";"Vietnam";"越\t南";"南\t部\t丛\t林";;
@@ -4173,7 +4183,7 @@ Jak powiedział jeden z kierowców, który przeżył bitwę: ""To był mój najg
 "alaska_town/name";"Łódź";"Alaska";"Alaska";"Alaska";"Alaska";"Аляска";"Alaska";"Alaska";"Alaska";"阿\t拉\t斯\t加 • 都\t市\t丛\t林";"アラスカ";"Alasca";"Аляска";"Aljaska";"Alaszka";"알래스카";"Аляска";"Alaska";"阿\t拉\t斯\t加 • 都\t市\t叢\t林";"丛\t林\t都\t市";;
 "alaska_town/desc";"Trwa remont budynku w centrum Łodzi";;;;;;;;;;;;;;;;;;;;;
 "american_valley/name";"Chłodnica Górska";"Désert américain";"Deserto Americano";"Amerikanische Wüste";"Desierto de América";"Американская пустыня";"Amerykańska pustynia";"American Desert";"Amerikan Çölü";"美\t国 • 沙\t漠\t之\t城";"アメリカの\t砂漠";"Deserto Americano";"Американська пустеля";"Američka pustinja";"Amerikai sivatag";"아메리칸 데저트";"Американская пустыня";"Deșert American";"美\t國 • 沙\t漠\t之\t城";"沙\t漠\t城\t镇";;
-"american_valley/desc";"Awaria na planie filmowym ""Auta "4"! Zamiast kolejnej wersji animacji, ekipa filmowa w Chłodnicy Górskiej nagrywa teraz wojenne blockbusterowe sceny z czołgami. Wszystko zaczęło się od błędu technicznego, który spowodował, że postaci animowane zamieniły się w ryczące maszyny wojenne. Reżyser zamiast odwołać produkcję, postanowił przekierować film w kierunku walki pancernych.
+"american_valley/desc";"Awaria na planie filmowym ""Auta 4""! Zamiast kolejnej wersji animacji, ekipa filmowa w Chłodnicy Górskiej nagrywa teraz wojenne blockbusterowe sceny z czołgami. Wszystko zaczęło się od błędu technicznego, który spowodował, że postaci animowane zamieniły się w ryczące maszyny wojenne. Reżyser zamiast odwołać produkcję, postanowił przekierować film w kierunku walki pancernych.
 
 Teraz w Chłodnicy Górskiej czołgi strzelają do siebie na ekranie, podczas gdy animowane postacie z filmu ""Auta"" w ogóle się nie pojawiają. Ekipa filmowa jest zachwycona nowymi efektami specjalnymi, a operatorzy kamer nie mogą się oprzeć ujęciom eksplozji i gruzowisk.
 
