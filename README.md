@@ -13,7 +13,3 @@
 6. Uruchom grę i ciesz się zabawą!
 
 Creators: TacChair & UselessM-1?
-
-Odpowiada za mapy - mission_location.csv oraz mission_versus.csv
-
-Odpowiada za pojazdy - units.csv
