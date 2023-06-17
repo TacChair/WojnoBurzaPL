@@ -1,6 +1,6 @@
 # WojnoBurzaPL
 
-1. Pobierz Pliki, które cię interesują.
+1. Pobierz Plik units.csv
 
 2. Otwórz plik config.blk w plikach gry przy urzyciu notatnkika.
 
